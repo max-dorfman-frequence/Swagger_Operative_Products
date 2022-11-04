@@ -70,9 +70,10 @@
                      }
 ```
   
-                # TTD Online Video
-                # Proposal: UP (Framework - Experian = true), I/O Strategy: 170
-          
+### TTD Online Video
+#### Proposal: UP (Framework - Experian = true), I/O Strategy: 170
+
+```json
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
@@ -136,13 +137,12 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
-            <div>
-                <h3 class="name">TTD Online Video</h3>
-                <p class="description">Proposal: Legacy (Experian = false), I/O Strategy: 1758</p>
-          
+### TTD Online Video
+#### Proposal: Legacy (Experian = false), I/O Strategy: 1758
+
+```json
                 <textarea class="text_area">
                     {
                         "name": "Payload Example",
@@ -207,14 +207,13 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
-            <div>
-                <h3 class="name">TTD Display</h3>
-                <p class="description">Proposal: n/a, I/O Strategy: 170</p>
+        
+### TTD Display
+#### Proposal: n/a, I/O Strategy: 170
           
-                <textarea class="text_area">
+```json
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
@@ -278,8 +277,7 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
             <div>
                 <h3 class="name">TTD Display</h3>
