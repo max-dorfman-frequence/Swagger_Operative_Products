@@ -70,7 +70,7 @@
                      }
 ```
   
-### **TTD Online Video**
+**### TTD Online Video**
 #### Proposal: UP (Framework - Experian = true), I/O Strategy: 170
 
 ```json
@@ -143,7 +143,6 @@
 #### Proposal: Legacy (Experian = false), I/O Strategy: 1758
 
 ```json
-                <textarea class="text_area">
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
