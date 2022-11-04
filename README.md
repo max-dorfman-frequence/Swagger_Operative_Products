@@ -1,7 +1,8 @@
 # Swagger_Operative_Products
 
-## TTD Online Video
-## Proposal: n/a, I/O Strategy: 170
+## Spectrum SOW3
+### TTD Online Video
+#### Proposal: n/a, I/O Strategy: 170
        
 ```json
                     {
@@ -14,59 +15,59 @@
                         "salesPersonName": "first.last",
                         "customFields": [
                               {
-                                    "fieldId": "51",
-                                    "name": "Salesforce Proposal ID",
-                                    "type": "Text",
-                                    "values": [
-                                        "a0O4N00000CRwneUAD"
-                                    ]
-                                },
-                                {
-                                    "fieldId": "54",
-                                    "name": "AudienceTrak Proposal ID",
-                                    "type": "Text",
-                                    "values": [
-                                        "16615425456763516455"
-                                    ]
-                                },
-                                {
-                                    "fieldId": "52",
-                                    "name": "Salesforce Unique Campaign ID",
-                                    "type": "Text",
-                                    "values": [
-                                        "a084N00000abAKF"
-                                    ]
-                                }
+                                  "fieldId": "51",
+                                  "name": "Salesforce Proposal ID",
+                                  "type": "Text",
+                                  "values": [
+                                      "a0O4N00000CRwneUAD"
+                                  ]
+                              },
+                              {
+                                  "fieldId": "54",
+                                  "name": "AudienceTrak Proposal ID",
+                                  "type": "Text",
+                                  "values": [
+                                      "16615425456763516455"
+                                  ]
+                              },
+                              {
+                                  "fieldId": "52",
+                                  "name": "Salesforce Unique Campaign ID",
+                                  "type": "Text",
+                                  "values": [
+                                      "a084N00000abAKF"
+                                  ]
+                              }
                         ],
                         "lineitems": [
-                            {
-                                "name": "Payload Example",
-                                "sourceLineitemId": "123",
-                                "quantity": 1,
-                                "orderQuantity": 2,
-                                "costType": "CPM",
-                                "bookingType": "Guaranteed",
-                                "unitCost": 3,
-                                "productId": "123",
-                                "productName": "Online Video/Display_AT",
-                                "timeZone": "UCT",
-                                "currency": "USD",
-                                "startDate": "2023-11-01 00:00",
-                                "endDate": "2023-12-01 00:00",
-                                "targets": [
-                                    {
-                                        "targetName": "audiencePlatformTargets",
-                                        "targetValues": [
-                                            "dba0cc7d16b5b9aa628fd94dc47a2821"
-                                        ]
-                                    }
-                                ],
-                                "locators": {},
-                                "customFields": [],
-                                "prefixId": "123-1"
-                            }
-                        ]
-                    }
+                             {
+                                 "name": "Payload Example",
+                                 "sourceLineitemId": "123",
+                                 "quantity": 1,
+                                 "orderQuantity": 2,
+                                 "costType": "CPM",
+                                 "bookingType": "Guaranteed",
+                                 "unitCost": 3,
+                                 "productId": "123",
+                                 "productName": "Online Video/Display_AT",
+                                 "timeZone": "UCT",
+                                 "currency": "USD",
+                                 "startDate": "2023-11-01 00:00",
+                                 "endDate": "2023-12-01 00:00",
+                                 "targets": [
+                                     {
+                                         "targetName": "audiencePlatformTargets",
+                                         "targetValues": [
+                                             "dba0cc7d16b5b9aa628fd94dc47a2821"
+                                         ]
+                                     }
+                                 ],
+                                 "locators": {},
+                                 "customFields": [],
+                                 "prefixId": "123-1"
+                             }
+                         ]
+                     }
 ```
   
                 # TTD Online Video
