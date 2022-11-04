@@ -1,7 +1,7 @@
 # Swagger_Operative_Products
 
 ## Spectrum SOW3
-### TTD Online Video
+### **TTD Online Video**
 #### Proposal: n/a, I/O Strategy: 170
        
 ```json
@@ -70,7 +70,7 @@
                      }
 ```
   
-### TTD Online Video
+### **TTD Online Video**
 #### Proposal: UP (Framework - Experian = true), I/O Strategy: 170
 
 ```json
@@ -139,7 +139,7 @@
                     }
 ```
 
-### TTD Online Video
+### **TTD Online Video**
 #### Proposal: Legacy (Experian = false), I/O Strategy: 1758
 
 ```json
@@ -210,7 +210,7 @@
 ```
 
         
-### TTD Display
+### **TTD Display**
 #### Proposal: n/a, I/O Strategy: 170
           
 ```json
@@ -279,11 +279,10 @@
                     }
 ```
 
-            <div>
-                <h3 class="name">TTD Display</h3>
-                <p class="description">Proposal: UP (Framework - Experian = true), I/O Strategy: 170</p>
+### **TTD Display**
+#### Proposal: UP (Framework - Experian = true), I/O Strategy: 170
           
-                <textarea class="text_area">
+```json
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
@@ -347,14 +346,12 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
-            <div>
-                <h3 class="name">TTD Display</h3>
-                <p class="description">Proposal: Legacy (Experian = false), I/O Strategy: 1758</p>
+### **TTD Display**
+#### Proposal: Legacy (Experian = false), I/O Strategy: 1758
           
-                <textarea class="text_area">
+```json
                 {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
@@ -418,14 +415,12 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
-            <div>
-                <h3 class="name">Simplifi Online Video (vc4)</h3>
-                <p class="description">Proposal: n/a, I/O Strategy: 170</p>
+### **Simplifi Online Video (vc4)**
+#### Proposal: n/a, I/O Strategy: 170
           
-                <textarea class="text_area">
+```json
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
@@ -489,14 +484,12 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
-            <div>
-                <h3 class="name">Simplifi Online Video (vc4)</h3>
-                <p class="description">Proposal: UP (Framework - Experian = true), I/O Strategy: 170</p>
+### **Simplifi Online Video (vc4)**
+#### Proposal: UP (Framework - Experian = true), I/O Strategy: 170
           
-                <textarea class="text_area">
+```json
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
@@ -560,14 +553,12 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
-            <div>
-                <h3 class="name">Simplifi Display (vc4)</h3>
-                <p class="description">Proposal: n/a, I/O Strategy: 170</p>
+### **Simplifi Display (vc4)**
+#### Proposal: n/a, I/O Strategy: 170
           
-                <textarea class="text_area">
+```json
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
@@ -631,14 +622,12 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
-            <div>
-                <h3 class="name">Simplifi Display (vc4)</h3>
-                <p class="description">Proposal: UP (Framework - Experian = true), I/O Strategy: 170</p>
+### **Simplifi Display (vc4)**
+#### Proposal: UP (Framework - Experian = true), I/O Strategy: 170
           
-                <textarea class="text_area">
+```json
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
@@ -702,8 +691,7 @@
                             }
                         ]
                     }
-                </textarea>
-            </div>
+```
 
             <div>
                 <h3 class="name">Simplifi Addressable Online Video (vc4)</h3>
