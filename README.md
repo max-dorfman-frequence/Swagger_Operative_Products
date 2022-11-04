@@ -1,10 +1,9 @@
 # Swagger_Operative_Products
 
-# TTD Online Video
-# Proposal: n/a, I/O Strategy: 170
+## TTD Online Video
+## Proposal: n/a, I/O Strategy: 170
        
 ```json
-
                     {
                         "name": "Payload Example",
                         "sourceOrderId": "123",
